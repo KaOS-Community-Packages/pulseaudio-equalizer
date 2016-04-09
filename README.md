@@ -8,3 +8,6 @@ kcp -i pulseaudio-equalizer
 
 Needed packages:
 kcp -di [swh-plugins](../../../swh-plugins)
+
+
+![pulseaudio-equalizer](http://i.imgur.com/NwxMvKr.png)
